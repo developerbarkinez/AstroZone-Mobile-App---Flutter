@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "621781908676",
+    "project_id": "astrozone-780a3",
+    "storage_bucket": "astrozone-780a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621781908676:android:f0f2d2eda474442763dd91",
+        "android_client_info": {
+          "package_name": "com.example.astrozone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621781908676-qp25jrrpccdrqbpugmhf7ucbdjn0h76g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astrozone",
+            "certificate_hash": "6dd76d4b9a0e7027f5e116c2ac28fc78713d1a9e"
+          }
+        },
+        {
+          "client_id": "621781908676-h3ueh24707l1kd1i24id8qf2fi5um8k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuGN4-JdEJT0Tl_NObqwbHoYT2Vy19fjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621781908676-h3ueh24707l1kd1i24id8qf2fi5um8k0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621781908676-t86stkgkd1ddt8cqbl9gl0ve0uisil8l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.astrozone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

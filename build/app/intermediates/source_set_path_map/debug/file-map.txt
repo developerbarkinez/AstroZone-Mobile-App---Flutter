@@ -1,0 +1,23 @@
+com.example.astrozone.app-browser-1.4.0-0 /Users/barkintosh/.gradle/caches/transforms-3/162e57b214e200a6207c40330426bda2/transformed/browser-1.4.0/res
+com.example.astrozone.app-jetified-annotation-experimental-1.1.0-1 /Users/barkintosh/.gradle/caches/transforms-3/3795200b4ef80330da39fee63b1e3f99/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.astrozone.app-jetified-window-java-1.0.0-beta04-2 /Users/barkintosh/.gradle/caches/transforms-3/4f8a10da11d41b9ccabff01515190014/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.astrozone.app-jetified-firebase-common-20.3.2-3 /Users/barkintosh/.gradle/caches/transforms-3/7c67cb1107658111bdfb744d9b4eec58/transformed/jetified-firebase-common-20.3.2/res
+com.example.astrozone.app-core-1.6.0-4 /Users/barkintosh/.gradle/caches/transforms-3/ae42e6c01585f28a5adeac7499fca147/transformed/core-1.6.0/res
+com.example.astrozone.app-jetified-play-services-basement-18.1.0-5 /Users/barkintosh/.gradle/caches/transforms-3/b98038a8bb5f558b05cc7fc73ca7ad87/transformed/jetified-play-services-basement-18.1.0/res
+com.example.astrozone.app-jetified-play-services-base-18.0.1-6 /Users/barkintosh/.gradle/caches/transforms-3/c7232b6ce4e188bed1222fb6e790465b/transformed/jetified-play-services-base-18.0.1/res
+com.example.astrozone.app-jetified-play-services-auth-20.4.1-7 /Users/barkintosh/.gradle/caches/transforms-3/e7bd19fb339737b3486666b58a57b3de/transformed/jetified-play-services-auth-20.4.1/res
+com.example.astrozone.app-jetified-window-1.0.0-beta04-8 /Users/barkintosh/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/res
+com.example.astrozone.app-debug-9 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/android/app/src/debug/res
+com.example.astrozone.app-main-10 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/android/app/src/main/res
+com.example.astrozone.app-google-services-11 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/app/generated/res/google-services/debug
+com.example.astrozone.app-pngs-12 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/app/generated/res/pngs/debug
+com.example.astrozone.app-resValues-13 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/app/generated/res/resValues/debug
+com.example.astrozone.app-rs-14 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/app/generated/res/rs/debug
+com.example.astrozone.app-mergeDebugResources-15 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.astrozone.app-mergeDebugResources-16 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.astrozone.app-merged_res-17 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/app/intermediates/merged_res/debug
+com.example.astrozone.app-packaged_res-18 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/cloud_firestore/intermediates/packaged_res/debug
+com.example.astrozone.app-packaged_res-19 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/firebase_auth/intermediates/packaged_res/debug
+com.example.astrozone.app-packaged_res-20 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/firebase_core/intermediates/packaged_res/debug
+com.example.astrozone.app-packaged_res-21 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/firebase_storage/intermediates/packaged_res/debug
+com.example.astrozone.app-packaged_res-22 /Users/barkintosh/Desktop/Flutter App Projects/astrozone/build/google_sign_in_android/intermediates/packaged_res/debug

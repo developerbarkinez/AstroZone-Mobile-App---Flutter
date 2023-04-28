@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">621781908676-h3ueh24707l1kd1i24id8qf2fi5um8k0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">621781908676</string>
+    <string name="google_api_key" translatable="false">AIzaSyBuGN4-JdEJT0Tl_NObqwbHoYT2Vy19fjY</string>
+    <string name="google_app_id" translatable="false">1:621781908676:android:f0f2d2eda474442763dd91</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBuGN4-JdEJT0Tl_NObqwbHoYT2Vy19fjY</string>
+    <string name="google_storage_bucket" translatable="false">astrozone-780a3.appspot.com</string>
+    <string name="project_id" translatable="false">astrozone-780a3</string>
+</resources>
